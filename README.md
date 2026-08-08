@@ -2,148 +2,120 @@
 
 <div align="center">
 
-<!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:090d16&height=220&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Aspiring%20Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI/ML%20%7C%20IoT&descSize=16&descAlign=50&descAlignY=62&stroke=00f2fe&strokeWidth=1&descColor=00f2fe" width="100%" alt="Shreyash Mehta Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20IoT%20Explorer&descSize=16&descAlign=50&descAlignY=62&stroke=00F2FE&strokeWidth=1&descColor=00F2FE" width="100%" alt="Shreyash Mehta"/>
 
 <br/>
 
-<!-- PROFILE PHOTO -->
-<img src="./assets/shreyash-profile.jpg" width="190" alt="Shreyash Mehta" />
+<img src="./assets/shreyash-profile.jpg" width="190" alt="Shreyash Mehta"/>
 
-<br/>
+<br/><br/>
 
-# 👋 Hi, I'm Shreyash Mehta
+# Hi, I'm Shreyash Mehta 👋
 
-<!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/ShreyashMehta179">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full-Stack+Developer;AI%2FML+Enthusiast;IoT+Explorer;Aspiring+Software+Development+Engineer;Java+%26+DSA+Learner;AI+Builder;Problem+Solver;Building+Innovative+Solutions" alt="Animated Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full-Stack+Developer;AI%2FML+Enthusiast;IoT+Explorer;Java+%26+DSA+Learner;AI+Builder;Problem+Solver;Building+Innovative+Projects" alt="Typing SVG"/>
 </a>
 
-<p align="center">
-  <b>"Building Innovative Solutions with Code, AI & IoT 🚀"</b>
-</p>
+<p><b>"Building Innovative Solutions with Code, AI &amp; IoT 🚀"</b></p>
 
-<!-- STATUS BADGE -->
-<p align="center">
-  <a href="#about-me">
-    <img src="https://img.shields.io/badge/🟢_Status-Building_%26_Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Status Badge: Building and Learning"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/🟢_STATUS-BUILDING_%26_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00F2FE" alt="Status"/>
 
-<!-- QUICK SOCIAL BADGES & PROFILE LINKS -->
-<p align="center">
-  <a href="https://github.com/ShreyashMehta179"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
-  <a href="https://linkedin.com/in/shreyash-mehta-8a899b3a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🎙️_Voice_Assistant-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Voice Assistant Live Project"/></a>
-  <a href="mailto:shreyash.smita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/></a>
-</p>
+<br/><br/>
 
-<!-- DYNAMIC PROFILE STAT COUNTERS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyashMehta179&label=PROFILE+VIEWS&color=00f2fe&style=flat-square" alt="Profile Views Counter"/>
-  <img src="https://img.shields.io/github/followers/ShreyashMehta179?label=FOLLOWERS&style=flat-square&color=7928ca&logo=github" alt="GitHub Followers Counter"/>
-</p>
+<a href="https://github.com/ShreyashMehta179"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/shreyash-mehta-8a899b3a4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7928CA" alt="LinkedIn"/></a>
+<a href="mailto:shreyash.smita@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9D52" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-<!-- PORTFOLIO NAVIGATION BAR -->
-<p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/👤_ABOUT-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="About Anchor"/></a>
-  <a href="#my-arsenal"><img src="https://img.shields.io/badge/⚡_SKILLS-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Skills Anchor"/></a>
-  <a href="#experience"><img src="https://img.shields.io/badge/💼_EXPERIENCE-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Experience Anchor"/></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/🚀_PROJECTS-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Projects Anchor"/></a>
-  <a href="#achievements"><img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Achievements Anchor"/></a>
-  <a href="#education"><img src="https://img.shields.io/badge/🎓_EDUCATION-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Education Anchor"/></a>
-  <a href="#github-command-center"><img src="https://img.shields.io/badge/📊_GITHUB-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="GitHub Anchor"/></a>
-  <a href="#current-mission"><img src="https://img.shields.io/badge/🎯_MISSION-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Mission Anchor"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/🤝_CONTACT-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Contact Anchor"/></a>
-</p>
+<a href="https://shreyash-voice-assistant-ai-system.vercel.app/">
+  <img src="https://img.shields.io/badge/🎙️_LIVE_VOICE_ASSISTANT_—_TRY_IT_NOW-00F2FE?style=for-the-badge&labelColor=0D1117&color=00F2FE" alt="Live Voice Assistant" height="45"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShreyashMehta179&label=PROFILE+VIEWS&color=00F2FE&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ShreyashMehta179?label=FOLLOWERS&style=flat-square&color=7928CA&logo=github" alt="Followers"/>
 
 </div>
 
 <br/>
 
-<!-- HERO VISUAL ANIMATION -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-94e8-aea8018f6463.gif" width="750" alt="Developer Workspace Coding Visual Animation" />
+
+[ 👤 ABOUT ](#about) • [ ⚡ SKILLS ](#skills) • [ 💼 EXPERIENCE ](#experience) • [ 🚀 PROJECTS ](#projects) • [ 🏆 ACHIEVEMENTS ](#achievements) • [ 🎓 EDUCATION ](#education) • [ 📊 GITHUB ](#github) • [ 🎯 MISSION ](#mission) • [ 🤝 CONTACT ](#contact)
+
 </div>
 
 <br/>
 
-<!-- VISUAL TERMINAL CONSOLE -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-94e8-aea8018f6463.gif" width="700" alt="Developer workspace animation"/>
+</div>
+
+<br/>
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●                                                                  │
-│                                                                        │
-│ $ whoami                                                               │
-│ > Shreyash Nilesh Mehta                                                │
-│                                                                        │
-│ $ role                                                                 │
-│ > Aspiring Software Development Engineer                               │
-│                                                                        │
-│ $ stack                                                                │
-│ > Full-Stack Web Dev / AI & ML / IoT Micro-Systems / DSA               │
-│                                                                        │
-│ $ currently_learning                                                   │
-│ > Java + Advanced DSA + Agentic AI Architectures                       │
-│                                                                        │
-│ $ status                                                               │
-│ > BUILDING SOMETHING AWESOME...                                        │
-└────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│ ● ● ●                                    shreyash@dev │
+├──────────────────────────────────────────────────────┤
+│                                                        │
+│ $ whoami                                              │
+│ > Shreyash Nilesh Mehta                               │
+│                                                        │
+│ $ role                                                │
+│ > Aspiring Software Development Engineer              │
+│                                                        │
+│ $ stack                                               │
+│ > Full-Stack · AI/ML · IoT · DSA                      │
+│                                                        │
+│ $ learning                                            │
+│ > Java + Advanced DSA + Agentic AI Architectures       │
+│                                                        │
+│ $ status                                              │
+│ > Building something awesome...                      │
+│                                                        │
+└──────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 <br/>
 <hr/>
 <br/>
 
-<a id="about-me"></a>
+<a id="about"></a>
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 About Me
 
-I am an aspiring Software Development Engineer focused on Full-Stack Development and AI/ML, with hands-on experience building web applications, intelligent systems and IoT solutions.
+I am an aspiring **Software Development Engineer** focused on Full-Stack Development and AI/ML, with hands-on experience building web applications, intelligent systems, and IoT solutions — grounded in **DSA**, **DBMS**, **Operating Systems**, **REST API Development**, and **Cloud Technologies**.
 
-I actively develop applications across **Full-Stack Web Development**, **Artificial Intelligence**, and **Internet of Things (IoT)**, grounded in core Computer Science fundamentals including **Data Structures & Algorithms**, **DBMS**, **Operating Systems**, **REST API Development**, **Cloud Technologies**, and **Cross-functional Collaboration**.
-
-<br/>
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📌 WHO I AM</h3>
+      <h3>📌 Who I Am</h3>
       <ul>
-        <li>🎓 <b>Degree:</b> B.Tech in Computer Science and Engineering</li>
-        <li>💻 <b>Software Engineer:</b> Full-Stack Web Apps & REST APIs</li>
-        <li>🤖 <b>AI/ML Enthusiast:</b> Machine Learning & Computer Vision</li>
-        <li>🔌 <b>IoT Explorer:</b> Microcontrollers, ESP32 & Sensor Networks</li>
-        <li>🧠 <b>Problem Solver:</b> Java & Core Data Structures & Algorithms</li>
+        <li>🎓 <b>Degree:</b> B.Tech in Computer Science &amp; Engineering</li>
+        <li>💻 <b>Software Engineer:</b> Full-Stack Web Apps &amp; REST APIs</li>
+        <li>🤖 <b>AI/ML Enthusiast:</b> Machine Learning &amp; Computer Vision</li>
+        <li>🔌 <b>IoT Explorer:</b> Microcontrollers, ESP32 &amp; Sensor Networks</li>
+        <li>🧠 <b>Problem Solver:</b> Java &amp; Core Data Structures &amp; Algorithms</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 CURRENT FOCUS</h3>
+      <h3>🎯 Current Focus</h3>
       <ul>
         <li>☕ <b>Algorithms:</b> Advanced DSA in Java</li>
-        <li>🌐 <b>Full-Stack:</b> React, Next.js, Node.js & REST APIs</li>
-        <li>🧠 <b>AI Architecture:</b> Agentic AI & LLM Integrations</li>
-        <li>🏗️ <b>Systems:</b> Scalable System Design & DB Schemas</li>
+        <li>🌐 <b>Full-Stack:</b> React, Next.js, Node.js &amp; REST APIs</li>
+        <li>🧠 <b>AI Architecture:</b> Agentic AI &amp; LLM Integrations</li>
+        <li>🏗️ <b>Systems:</b> Scalable System Design &amp; DB Schemas</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br/>
-
-### 💡 Interactive Details
-
 <details>
   <summary>🧠 <b>Development Philosophy</b></summary>
   <br/>
-  <p align="center">
-    <code>Learn</code> → <code>Build</code> → <code>Test</code> → <code>Debug</code> → <code>Improve</code> → <code>Repeat</code>
-  </p>
+  <p align="center"><code>Learn</code> → <code>Build</code> → <code>Test</code> → <code>Debug</code> → <code>Improve</code> → <code>Repeat</code></p>
 </details>
 
 <details>
@@ -151,8 +123,8 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   <br/>
   <ul>
     <li>Full-stack web applications</li>
-    <li>AI/ML systems & predictive pipelines</li>
-    <li>IoT solutions & microcontroller networks</li>
+    <li>AI/ML systems &amp; predictive pipelines</li>
+    <li>IoT solutions &amp; microcontroller networks</li>
     <li>Computer vision systems with OpenCV</li>
     <li>Developer-focused tools and platforms</li>
   </ul>
@@ -162,121 +134,23 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   <summary>🔬 <b>Areas I'm Exploring</b></summary>
   <br/>
   <ul>
-    <li>Artificial Intelligence & Machine Learning</li>
-    <li>Generative AI & Agentic AI Frameworks</li>
-    <li>Cloud Computing & Microservices</li>
-    <li>System Design & Backend Architecture</li>
+    <li>Artificial Intelligence &amp; Machine Learning</li>
+    <li>Generative AI &amp; Agentic AI Frameworks</li>
+    <li>Cloud Computing &amp; Microservices</li>
+    <li>System Design &amp; Backend Architecture</li>
     <li>Cybersecurity Fundamentals</li>
   </ul>
 </details>
 
-<details>
-  <summary>🧩 <b>Problem Solving Approach</b></summary>
-  <br/>
-  <ul>
-    <li>Deconstruct complex problems into modular algorithmic sub-problems.</li>
-    <li>Analyze time complexity and space complexity tradeoffs.</li>
-    <li>Write readable, clean, maintainable Object-Oriented code.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🎯 <b>Current Focus</b></summary>
-  <br/>
-  <ul>
-    <li>Advanced Data Structures & Algorithms in Java.</li>
-    <li>Building agentic AI tools and LLM integrations.</li>
-    <li>Designing scalable RESTful backend services.</li>
-  </ul>
-</details>
-
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
 <br/>
 
-<a id="currently-building"></a>
+<a id="skills"></a>
 
-## 🚀 CURRENTLY BUILDING
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Applications</h3>
-      <p>Building responsive, user-centric web platforms using React, Next.js, Node.js, and Express.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI-Powered Systems</h3>
-      <p>Developing intelligent systems integrating machine learning models, NLP, and speech recognition.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔌 IoT Solutions</h3>
-      <p>Engineering microcontroller-based sensor nodes (ESP32/Arduino) streaming live data telemetry.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI/ML Experiments</h3>
-      <p>Constructing computer vision algorithms, Random Forest classifiers, and dataset training pipelines.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3>🏗️ Backend & REST APIs</h3>
-      <p>Designing structured SQL & MongoDB database schemas, authentication systems, and scalable REST endpoints.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<a id="currently-learning"></a>
-
-## 📚 CURRENTLY LEARNING
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>☕ <b>Java & Data Structures & Algorithms:</b> Deepening algorithmic problem solving and time/space complexity optimization.</li>
-        <li>🧠 <b>Agentic AI & LLMs:</b> Exploring multi-agent AI frameworks, tool calling, and RAG pipelines.</li>
-        <li>🏗️ <b>System Design:</b> Studying distributed backend systems and scalable database design.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>☁️ <b>Cloud Technologies:</b> Cloud deployment, containerization, and serverless APIs.</li>
-        <li>🤖 <b>Generative AI:</b> Prompt engineering, fine-tuning, and LLM-powered applications.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<a id="my-arsenal"></a>
-
-## ⚡ MY ARSENAL
-
-<br/>
+## ⚡ My Arsenal
 
 <details open>
   <summary>💻 <b>Programming Languages</b></summary>
@@ -298,11 +172,9 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </p>
 </details>
 
@@ -314,7 +186,6 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     <img src="https://img.shields.io/badge/REST_APIs-00F2FE?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST APIs"/>
     <img src="https://img.shields.io/badge/Authentication-7928CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Authentication"/>
-    <img src="https://img.shields.io/badge/API_Integration-00599C?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration"/>
   </p>
 </details>
 
@@ -325,7 +196,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Firestore"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   </p>
 </details>
@@ -334,11 +205,10 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   <summary>🧠 <b>Core Computer Science</b></summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Data Structures and Algorithms"/>
-    <img src="https://img.shields.io/badge/Object--Oriented_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Object Oriented Programming"/>
+    <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="DSA"/>
+    <img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="OOP"/>
     <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="DBMS"/>
-    <img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Operating Systems"/>
-    <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks"/>
+    <img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS"/>
   </p>
 </details>
 
@@ -346,49 +216,38 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   <summary>🤖 <b>AI / ML</b></summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Artificial_Intelligence-00F2FE?style=for-the-badge&logo=brain&logoColor=black" alt="Artificial Intelligence"/>
     <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
     <img src="https://img.shields.io/badge/Generative_AI-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
     <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-    <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest Classifier"/>
+    <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest"/>
   </p>
 </details>
 
 <details>
-  <summary>🔌 <b>IoT & Hardware</b></summary>
+  <summary>🔌 <b>IoT &amp; Hardware</b></summary>
   <br/>
   <p align="center">
     <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded Systems"/>
     <img src="https://img.shields.io/badge/IoT_Sensors-00F2FE?style=for-the-badge&logo=microchip&logoColor=black" alt="IoT Sensors"/>
-    <img src="https://img.shields.io/badge/Microcontrollers-ED8B00?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="Microcontrollers"/>
-    <img src="https://img.shields.io/badge/Relay_Modules-D14836?style=for-the-badge&logo=microchip&logoColor=white" alt="Relay Modules"/>
-    <img src="https://img.shields.io/badge/OLED_Displays-339933?style=for-the-badge&logo=microchip&logoColor=white" alt="OLED Displays"/>
-    <img src="https://img.shields.io/badge/Sensor_Integration-7928CA?style=for-the-badge&logo=microchip&logoColor=white" alt="Sensor Integration"/>
   </p>
 </details>
 
 <details>
-  <summary>☁️ <b>Cloud & Tools</b></summary>
+  <summary>☁️ <b>Cloud &amp; Tools</b></summary>
   <br/>
   <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform"/>
+    <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   </p>
 </details>
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -396,13 +255,13 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="experience"></a>
 
-## 💼 EXPERIENCE
+## 💼 Experience
 
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>🔌 QUALITAS TECHNO SOLUTIONS</h3>
-      <p><b>Role:</b> IoT & Embedded Systems Intern &nbsp;|&nbsp; <b>Location:</b> Kolhapur, India &nbsp;|&nbsp; <b>Duration:</b> June 2023 – July 2023</p>
+      <h3>🔌 Qualitas Techno Solutions</h3>
+      <p><b>Role:</b> IoT &amp; Embedded Systems Intern &nbsp;|&nbsp; <b>Location:</b> Kolhapur, India &nbsp;|&nbsp; <b>Duration:</b> June 2023 – July 2023</p>
       <ul>
         <li>Designed and implemented IoT automation solutions using ESP32/Arduino, sensors and relay modules.</li>
         <li>Developed real-time monitoring applications integrating hardware components and sensor data pipelines.</li>
@@ -413,7 +272,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>📱 GOOGLE FOR DEVELOPERS & AICTE EDUSKILLS</h3>
+      <h3>📱 Google for Developers &amp; AICTE EduSkills</h3>
       <p><b>Role:</b> Android Developer Virtual Intern &nbsp;|&nbsp; <b>Duration:</b> July 2025 – September 2025</p>
       <ul>
         <li>Completed a 10-week virtual internship focused on mobile app development.</li>
@@ -424,193 +283,91 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   </tr>
 </table>
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
 <br/>
 
-<a id="featured-projects"></a>
+<a id="projects"></a>
 
-## 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>01 | 🎙️ Shreyash Voice Assistant AI System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-AI_/_Full--Stack-00f2fe?style=flat-square" alt="Category AI Full-Stack"/>
-      </p>
-      <p>
-        AI-powered voice assistant providing an interactive conversational experience through speech recognition and intelligent responses.
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Overview:</b> Interactive voice assistant capturing audio input and returning intelligent responses.</li>
-          <li><b>Features:</b> Speech recognition, conversational NLP processing, and intelligent task execution.</li>
-        </ul>
-      </details>
-      <br/>
+      <img src="https://img.shields.io/badge/Category-AI_/_Full--Stack-00F2FE?style=flat-square" alt="Category"/>
+      <p>AI-powered voice assistant providing an interactive conversational experience through speech recognition and intelligent responses.</p>
       <p align="center">
-        <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🎙️_LIVE_VOICE_ASSISTANT-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🎙️_LIVE_VOICE_ASSISTANT-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>02 | 🏆 Hackoutsav-DYPSEM</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-Full--Stack_/_Web-7928ca?style=flat-square" alt="Category Full-Stack Web"/>
-      </p>
-      <p>
-        Official responsive college hackathon website developed for D.Y. Patil School of Engineering & Management.
-      </p>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Key Achievement:</b> Supported live participation from <b>1,000+ users across India</b> during the hackathon with zero downtime.</li>
-          <li><b>Features:</b> Event registration, schedules, announcements, speaker details, and participant resources.</li>
-        </ul>
-      </details>
-      <br/>
+      <img src="https://img.shields.io/badge/Category-Full--Stack_/_Web-7928CA?style=flat-square" alt="Category"/>
+      <p>Official responsive college hackathon website for D.Y. Patil School of Engineering &amp; Management. Supported <b>1,000+ live users across India</b> with zero downtime.</p>
+      <p><b>Tech:</b> <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
       <p align="center">
-        <a href="https://github.com/ShreyashMehta179/Hackoutsav-DYPSEM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository Link"/></a>
-        <a href="https://hackoutsav-dypsem.vercel.app"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://github.com/ShreyashMehta179/Hackoutsav-DYPSEM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://hackoutsav-dypsem.vercel.app"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 | 👅 E-Tongue for Dravya Identification</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-AI_/_IoT_/_ML-00f2fe?style=flat-square" alt="Category AI IoT ML"/>
-      </p>
-      <p>
-        An IoT-based Electronic Tongue system using pH, TDS and turbidity sensors to identify Ayurvedic Shad Rasa and detect adulterated or anomalous samples.
-      </p>
-      <p>
-        <b>Tech Stack:</b> <code>Arduino Uno</code> <code>React</code> <code>TypeScript</code> <code>Random Forest</code> <code>IoT</code> <code>pH Sensor</code> <code>TDS Sensor</code> <code>Turbidity Sensor</code>
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Shad Rasa Analysis:</b> Identifies Sweet, Sour, Salty, Pungent, Bitter, and Astringent taste profiles.</li>
-          <li><b>System Features:</b> Custom dataset, hardware sensor readings, Random Forest classifier, real-time React dashboard with live graphs, prediction results, and Ayurvedic product authentication.</li>
-        </ul>
-      </details>
-      <br/>
+      <img src="https://img.shields.io/badge/Category-AI_/_IoT_/_ML-00F2FE?style=flat-square" alt="Category"/>
+      <p>IoT-based Electronic Tongue using pH, TDS and turbidity sensors to identify Ayurvedic Shad Rasa and detect adulterated or anomalous samples.</p>
+      <p><b>Tech:</b> <code>Arduino Uno</code> <code>React</code> <code>Random Forest</code> <code>IoT Sensors</code></p>
       <p align="center">
-        <a href="https://github.com/ShreyashMehta179/E-Tongue-for-Dravya-Identification"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository Link"/></a>
-        <a href="https://e-tongue-for-dravya-identification.vercel.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://github.com/ShreyashMehta179/E-Tongue-for-Dravya-Identification"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://e-tongue-for-dravya-identification.vercel.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>04 | 👤 Face Recognition Attendance System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-Computer_Vision-7928ca?style=flat-square" alt="Category Computer Vision"/>
-      </p>
-      <p>
-        Automated attendance system using real-time face recognition and detection for classroom attendance management.
-      </p>
-      <p>
-        <b>Tech Stack:</b> <code>Python</code> <code>OpenCV</code> <code>MySQL</code>
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Features:</b> Face detection, face recognition, automated attendance logging into MySQL storage, and automated attendance report generation.</li>
-        </ul>
-      </details>
-      <br/>
+      <img src="https://img.shields.io/badge/Category-Computer_Vision-7928CA?style=flat-square" alt="Category"/>
+      <p>Automated attendance system using real-time face recognition and detection, logging into MySQL with automated report generation.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>OpenCV</code> <code>MySQL</code></p>
       <p align="center">
-        <a href="https://github.com/ShreyashMehta179/Face-Recognition-Attendance-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository Link"/></a>
-        <a href="https://drive.google.com/file/d/1NuD9zCcr3hfcq3YF4BXlZzrFaIscfPsB/view"><img src="https://img.shields.io/badge/🎥_Demo-00F2FE?style=for-the-badge&logo=google-drive&logoColor=black" alt="Video Demo Link"/></a>
+        <a href="https://github.com/ShreyashMehta179/Face-Recognition-Attendance-System"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://drive.google.com/file/d/1NuD9zCcr3hfcq3YF4BXlZzrFaIscfPsB/view"><img src="https://img.shields.io/badge/🎥_DEMO-00F2FE?style=for-the-badge&logo=google-drive&logoColor=black" alt="Video Demo"/></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>05 | 🧭 Campus AR Navigation</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-AR_/_Web-00f2fe?style=flat-square" alt="Category AR Web"/>
-      </p>
-      <p>
-        An AR-based campus navigation project designed to help students and visitors navigate campus locations.
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Overview:</b> Augmented reality visual navigation overlay helping visitors navigate facilities.</li>
-        </ul>
-      </details>
-      <br/>
+      <img src="https://img.shields.io/badge/Category-AR_/_Web-00F2FE?style=flat-square" alt="Category"/>
+      <p>AR-based campus navigation project helping students and visitors navigate campus locations.</p>
       <p align="center">
-        <a href="https://github.com/ShreyashMehta179/campus-ar-navigation"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository Link"/></a>
+        <a href="https://github.com/ShreyashMehta179/campus-ar-navigation"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>06 | 👁️ Vision Studio</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-AI_/_Computer_Vision-7928ca?style=flat-square" alt="Category AI Computer Vision"/>
-      </p>
-      <p>
-        An AI/computer-vision focused project for exploring visual analysis, image processing and intelligent vision applications.
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Overview:</b> Image processing and computer vision visual analysis sandbox.</li>
-        </ul>
-      </details>
+      <img src="https://img.shields.io/badge/Category-AI_/_Computer_Vision-7928CA?style=flat-square" alt="Category"/>
+      <p>AI / computer-vision project for exploring visual analysis, image processing and intelligent vision applications.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>07 | 🌱 Smart Irrigation System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Category-IoT-00f2fe?style=flat-square" alt="Category IoT"/>
-      </p>
-      <p>
-        An IoT-based irrigation project focused on monitoring environmental conditions and automating irrigation using connected sensors.
-      </p>
-      <p>
-        <b>Tech Stack:</b> <code>ESP32</code> <code>Arduino</code> <code>IoT Sensors</code>
-      </p>
-      <details>
-        <summary>🔍 <b>Explore Project</b></summary>
-        <br/>
-        <ul>
-          <li><b>Overview:</b> Environmental sensor telemetry node triggering automated water control.</li>
-        </ul>
-      </details>
+      <img src="https://img.shields.io/badge/Category-IoT-00F2FE?style=flat-square" alt="Category"/>
+      <p>IoT-based irrigation project monitoring environmental conditions and automating irrigation using connected sensors.</p>
+      <p><b>Tech:</b> <code>ESP32</code> <code>Arduino</code> <code>IoT Sensors</code></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <br/><br/>
-      <p><b>✨ Explore All Repositories</b></p>
-      <p>Check out all source code, algorithms, and projects directly on GitHub.</p>
       <br/>
-      <p align="center">
-        <a href="https://github.com/ShreyashMehta179?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-00f2fe?style=for-the-badge&logo=github&logoColor=black" alt="View Repositories Link"/></a>
-      </p>
+      <p><b>✨ Explore All Repositories</b></p>
+      <p>All source code, algorithms, and projects on GitHub.</p>
+      <a href="https://github.com/ShreyashMehta179?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="View Repositories"/></a>
     </td>
   </tr>
 </table>
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -618,22 +375,21 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="achievements"></a>
 
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
+## 🏆 Achievements &amp; Certifications
 
-- 🏆 **Winner** — Internal Smart India Hackathon (SIH) 2025, *D.Y. Patil School of Engineering & Management*
-- 🥈 **2nd Prize** — Web Development Competition (2024–2025), *D.Y. Patil School of Engineering & Management*
-- 🏅 **AVISHKAAR National Level Hackathon 2025** — *Aditya Institute of Technology and Management, Andhra Pradesh*
-- 📊 **GenAI Powered Data Analytics Job Simulation** — *Tata Group (Forage)*
-- 🛡️ **Deloitte Cyber Job Simulation** — *Deloitte (Forage)*
-- ☕ **Java Skill Certification** — *OneRoadmap*
-- 🐍 **Python Skill Certification** — *OneRoadmap*
-- 📜 **C Programming Certificate Course** — *DISHA Computer Institute (95%)*
-- 📜 **C++ Programming Certificate Course** — *DISHA Computer Institute (95%)*
+| | |
+|---|---|
+| 🏆 | **Winner** — Internal Smart India Hackathon (SIH) 2025, *D.Y. Patil School of Engineering &amp; Management* |
+| 🥈 | **2nd Prize** — Web Development Competition (2024–2025), *D.Y. Patil School of Engineering &amp; Management* |
+| 🏅 | **AVISHKAAR National Level Hackathon 2025** — *Aditya Institute of Technology and Management, Andhra Pradesh* |
+| 📊 | **GenAI Powered Data Analytics Job Simulation** — *Tata Group (Forage)* |
+| 🛡️ | **Deloitte Cyber Job Simulation** — *Deloitte (Forage)* |
+| ☕ | **Java Skill Certification** — *OneRoadmap* |
+| 🐍 | **Python Skill Certification** — *OneRoadmap* |
+| 📜 | **C Programming Certificate Course** — *DISHA Computer Institute (95%)* |
+| 📜 | **C++ Programming Certificate Course** — *DISHA Computer Institute (95%)* |
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -641,12 +397,12 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="education"></a>
 
-## 🎓 EDUCATION
+## 🎓 Education
 
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>🏫 D. Y. Patil School of Engineering & Management</h3>
+      <h3>🏫 D. Y. Patil School of Engineering &amp; Management</h3>
       <p><b>Degree:</b> B.Tech in Computer Science and Engineering &nbsp;|&nbsp; <b>Duration:</b> 2023 – 2027</p>
       <p><b>Performance:</b> CGPA: <b>8.4 / 10</b> &nbsp;|&nbsp; <b>Location:</b> Kolhapur, India</p>
     </td>
@@ -660,188 +416,105 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   </tr>
 </table>
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
 <br/>
 
-<a id="github-command-center"></a>
+<a id="github"></a>
 
-## 📊 GITHUB COMMAND CENTER
+## 📊 GitHub Command Center
 
 <p align="center"><i>Tracking my journey through code, commits, and continuous learning.</i></p>
 
-<br/>
-
-<!-- ROW 1: STATS & TOP LANGS -->
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShreyashMehta179&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&border_radius=8" width="100%" alt="Shreyash Mehta's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShreyashMehta179&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&border_radius=8" width="100%" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashMehta179&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_radius=8" width="100%" alt="Top Languages Used"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashMehta179&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9&border_radius=8" width="100%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- ROW 2: STREAK STATS -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashMehta179&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sidenums=00F2FE&date=c9d1d9&border_radius=8" width="85%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashMehta179&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=FF9D52&currStreakNum=00F2FE&sidenums=00F2FE&date=c9d1d9&border_radius=8" width="85%" alt="Streak Stats"/>
 </div>
 
-<br/>
-
-<!-- ROW 3: TROPHIES -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShreyashMehta179&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies"/>
 </div>
 
-<br/>
-
-<!-- ROW 4: ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashMehta179&theme=tokyonight&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="90%" alt="Development Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashMehta179&theme=tokyonight&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 </div>
 
-<br/>
-
-<!-- ROW 5: CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <h3>🐍 MY CODE JOURNEY</h3>
-  <p><i>"Every contribution tells a story."</i></p>
+  <h3>🐍 My Code Journey</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
 <br/>
 
-<a id="learning-journey"></a>
+<a id="mission"></a>
 
-## 📚 LEARNING JOURNEY
-
-<p align="center">
-  <code>JAVA + DSA</code> &nbsp;→&nbsp; <code>FULL STACK</code> &nbsp;→&nbsp; <code>AI / ML</code> &nbsp;→&nbsp; <code>GENERATIVE AI</code> &nbsp;→&nbsp; <code>AGENTIC AI</code> &nbsp;→&nbsp; <code>CLOUD + SYSTEM DESIGN</code>
-</p>
-
-<br/>
-
-<details>
-  <summary>☕ <b>Java & DSA Breakdown</b></summary>
-  <br/>
-  <p>Java • Object-Oriented Programming (OOP) • Arrays • Strings • Linked Lists • Stacks • Queues • Trees • Binary Search Trees (BST) • AVL Trees • Recursion • Sorting Algorithms • Searching Algorithms • Time Complexity • Space Complexity</p>
-</details>
-
-<details>
-  <summary>🤖 <b>AI / ML Breakdown</b></summary>
-  <br/>
-  <p>Machine Learning • Random Forest Classifier • Computer Vision (OpenCV) • Generative AI • Large Language Models (LLMs) • Agentic AI Frameworks</p>
-</details>
-
-<details>
-  <summary>🌐 <b>Full-Stack Breakdown</b></summary>
-  <br/>
-  <p>React.js • Next.js • Node.js • Express.js • REST APIs • Authentication • Relational & Document Databases (MySQL, PostgreSQL, MongoDB, Firebase, Supabase)</p>
-</details>
-
-<details>
-  <summary>🔌 <b>IoT Breakdown</b></summary>
-  <br/>
-  <p>ESP32 Microcontrollers • Arduino Uno • Hardware Sensors • Embedded Systems Integration</p>
-</details>
-
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<a id="current-mission"></a>
-
-## 🎯 CURRENT MISSION
+## 🎯 Current Mission
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ MISSION DASHBOARD                                                      │
-│                                                                        │
-│ $ current_mission                                                      │
-│                                                                        │
-│ [████████████████░░░░]                                                 │
-│                                                                        │
-│ > Strengthen Data Structures & Algorithms                              │
-│ > Build production-ready full-stack systems                            │
-│ > Explore advanced AI and Agentic AI                                   │
-│ > Build intelligent IoT solutions                                      │
-│ > Improve system design and backend architecture                       │
-│ > Contribute to open source                                            │
-│ > Continue building impactful projects                                 │
-└────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│ MISSION DASHBOARD                                           │
+│                                                               │
+│ [████████████████████████]                                  │
+│ CURRENTLY BUILDING & LEARNING                                │
+│                                                               │
+│ > Strengthen Data Structures & Algorithms                    │
+│ > Build production-ready full-stack systems                  │
+│ > Explore advanced AI and Agentic AI                          │
+│ > Build intelligent IoT solutions                             │
+│ > Improve system design and backend architecture              │
+│ > Contribute to open source                                   │
+│ > Continue building impactful projects                        │
+└────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
-<a id="philosophy"></a>
-
-### 💡 DEVELOPER PHILOSOPHY
-
 <blockquote>
-  <p align="center">
-    <b>"Learn → Build → Test → Debug → Improve → Repeat."</b>
-  </p>
-  <p align="center">
-    <i>Code is not just instructions for computers; it is a canvas for engineering solutions that empower people.</i>
-  </p>
+  <p align="center"><b>"Learn → Build → Test → Debug → Improve → Repeat."</b></p>
+  <p align="center"><i>Code is not just instructions for computers; it is a canvas for engineering solutions that empower people.</i></p>
 </blockquote>
 
-<br/>
-<div align="right">
-  <a href="#top">↑ Back to Top</a>
-</div>
+<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
 <br/>
 
-<a id="connect"></a>
+<a id="contact"></a>
 
-## 🤝 LET'S CONNECT
+## 🤝 Let's Connect
 
 <div align="center">
 
 <p><b>"Let's build something impactful together."</b></p>
-
 <p>Interested in technology, AI, full-stack development, or IoT? Let me know!</p>
 
-<p>
-  <a href="https://github.com/ShreyashMehta179"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
-  <a href="https://linkedin.com/in/shreyash-mehta-8a899b3a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  <a href="mailto:shreyash.smita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/></a>
-  <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🎙️_Voice_Assistant-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Voice Assistant Live Project"/></a>
-</p>
+<a href="https://github.com/ShreyashMehta179"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/shreyash-mehta-8a899b3a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shreyash.smita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🎙️_Voice_Assistant-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Voice Assistant"/></a>
 
-<br/>
+<br/><br/>
 
-<!-- DEVELOPER WIDGET -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke Widget" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke"/>
 
 </div>
 
@@ -849,19 +522,13 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 <hr/>
 <br/>
 
-<!-- ANIMATED FOOTER BANNER -->
 <div align="center">
 
 <a href="#top">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2fe&height=100&section=footer" width="100%" alt="Footer Wave Banner Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F2FE&height=100&section=footer" width="100%" alt="Footer"/>
 </a>
 
-<p align="center">
-  <b>BUILD • LEARN • SHIP • REPEAT 🚀</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! Designed for <b>Shreyash Mehta</b></i>
-</p>
+<p><b>BUILD • LEARN • SHIP • REPEAT 🚀</b></p>
+<p><i>Thanks for visiting my profile!</i></p>
 
 </div>
