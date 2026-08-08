@@ -12,24 +12,6 @@
 
 <br/>
 
-<!-- INTRO TERMINAL CARD -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
-
-```
-root@shreyash:~# whoami
-> developer :: builder :: lifelong learner
-> mission :: "BUILD • LEARN • SHIP • REPEAT"
-> status :: [████████░░] online & coding
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=2&section=header&text=&fontSize=0" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
