@@ -23,17 +23,3 @@
 </div>
 
 <br/>
-
-<!-- FOOTER -->
-<div align="center">
-
-<a href="#top">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F2FE&height=100&section=footer" width="100%" alt="Footer"/>
-</a>
-
-<p><b>BUILD • LEARN • SHIP • REPEAT 🚀</b></p>
-<p><i>> Thanks for visiting my profile!</i></p>
-
-<a href="#top"><img src="https://img.shields.io/badge/%E2%86%91_Back_to_Top-0D1117?style=flat-square&logoColor=00F2FE&labelColor=00F2FE" alt="Back to Top"/></a>
-
-</div>
