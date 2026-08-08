@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="100%">
   <defs>
-    <!-- Dark Cyber Gradient -->
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#030712" />
       <stop offset="50%" stop-color="#08111f" />
       <stop offset="100%" stop-color="#050b14" />
     </linearGradient>
 
-    <!-- Cyan Glow Filter -->
-    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="3" result="blur1" />
-      <feGaussianBlur stdDeviation="8" result="blur2" />
+      <feGaussianBlur stdDeviation="9" result="blur2" />
       <feMerge>
         <feMergeNode in="blur2" />
         <feMergeNode in="blur1" />
@@ -20,115 +20,124 @@
 
     <!-- Electric Lightning Glow -->
     <filter id="electricGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feComponentTransfer in="blur" result="brightBlur">
-        <feFuncA type="linear" slope="2"/>
-      </feComponentTransfer>
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
       <feMerge>
-        <feMergeNode in="brightBlur" />
+        <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
   </defs>
 
   <style>
-    @keyframes lightningTravel {
-      0% {
-        transform: translateX(-300px);
-        opacity: 0;
-      }
-      10% {
-        opacity: 1;
-      }
-      80% {
-        opacity: 1;
-      }
-      100% {
-        transform: translateX(1100px);
-        opacity: 0;
-      }
+    @keyframes lightningPass {
+      0% { transform: translateX(-350px); opacity: 0; }
+      15% { opacity: 1; }
+      85% { opacity: 1; }
+      100% { transform: translateX(1100px); opacity: 0; }
     }
 
-    @keyframes textFlash {
+    @keyframes textFlashSequence {
       0%, 100% {
         fill: #00F2FE;
-        filter: drop-shadow(0 0 8px rgba(0, 242, 254, 0.6));
+        filter: drop-shadow(0 0 10px rgba(0, 242, 254, 0.7));
+        transform: translate(0, 0);
       }
-      25% {
+      20% {
         fill: #FFFFFF;
-        filter: drop-shadow(0 0 20px #00F2FE) drop-shadow(0 0 35px #7C3AED);
+        filter: drop-shadow(0 0 25px #00F2FE) drop-shadow(0 0 40px #7C3AED);
+      }
+      45% {
+        fill: #00F2FE;
+        filter: drop-shadow(0 0 12px #00BFFF);
+        transform: translate(-1px, 0);
+      }
+      47% {
+        fill: #E0F7FA;
+        transform: translate(2px, -1px);
+        filter: drop-shadow(0 0 18px #7C3AED);
       }
       50% {
         fill: #00F2FE;
-        filter: drop-shadow(0 0 12px rgba(0, 242, 254, 0.8));
+        transform: translate(0, 0);
       }
       75% {
-        fill: #E0F7FA;
-        filter: drop-shadow(0 0 18px #00BFFF);
+        fill: #00F2FE;
+        filter: drop-shadow(0 0 15px #00F2FE);
       }
     }
 
-    @keyframes scanlineMove {
-      0% { transform: translateY(-100%); }
-      100% { transform: translateY(100%); }
+    @keyframes particleFloat {
+      0% { transform: translateY(0px) scale(0.8); opacity: 0.2; }
+      50% { transform: translateY(-15px) scale(1.2); opacity: 0.8; }
+      100% { transform: translateY(-30px) scale(0.8); opacity: 0.2; }
     }
 
-    @keyframes circuitPulse {
-      0%, 100% { opacity: 0.2; }
-      50% { opacity: 0.7; }
+    @keyframes hudPulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 0.85; }
     }
 
-    .main-title {
+    .main-text {
       font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
-      font-size: 54px;
+      font-size: 52px;
       font-weight: 900;
       letter-spacing: 12px;
-      animation: textFlash 4s infinite ease-in-out;
+      animation: textFlashSequence 4.5s infinite ease-in-out;
     }
 
-    .hud-text {
+    .hud-detail {
       font-family: monospace;
-      font-size: 10px;
+      font-size: 10.5px;
       fill: #00F2FE;
-      opacity: 0.35;
-      letter-spacing: 2px;
+      opacity: 0.45;
+      letter-spacing: 1.8px;
     }
 
-    .lightning-path {
-      animation: lightningTravel 3.5s infinite linear;
+    .hud-corner {
+      stroke: #00F2FE;
+      stroke-width: 2;
+      fill: none;
+      animation: hudPulse 3s infinite ease-in-out;
     }
 
-    .circuit-line {
-      animation: circuitPulse 3s infinite ease-in-out;
+    .lightning-streak {
+      animation: lightningPass 3.8s infinite linear;
+    }
+
+    .particle {
+      animation: particleFloat 4s infinite ease-in-out;
     }
   </style>
 
-  <!-- BACKGROUND RECT -->
-  <rect width="1000" height="220" rx="12" fill="url(#bgGrad)" stroke="#1F2937" stroke-width="1.5"/>
+  <!-- BACKGROUND -->
+  <rect width="1000" height="240" rx="12" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5"/>
 
-  <!-- HUD BORDER LINES -->
-  <path d="M 30 20 L 70 20 M 30 20 L 30 50" stroke="#00F2FE" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 970 20 L 930 20 M 970 20 L 970 50" stroke="#00F2FE" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 30 200 L 70 200 M 30 200 L 30 170" stroke="#00F2FE" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 970 200 L 930 200 M 970 200 L 970 170" stroke="#00F2FE" stroke-width="2" fill="none" opacity="0.6"/>
+  <!-- HUD CORNER BRACKETS -->
+  <path class="hud-corner" d="M 35 25 L 75 25 M 35 25 L 35 60"/>
+  <path class="hud-corner" d="M 965 25 L 925 25 M 965 25 L 965 60"/>
+  <path class="hud-corner" d="M 35 215 L 75 215 M 35 215 L 35 180"/>
+  <path class="hud-corner" d="M 965 215 L 925 215 M 965 215 L 965 180"/>
 
-  <!-- FAINT HACKER BACKGROUND DETAILS -->
-  <text x="40" y="45" class="hud-text">&gt; SYSTEM_ONLINE // SECURE_NODE_01</text>
-  <text x="780" y="45" class="hud-text">01001001 10110100</text>
-  <text x="40" y="190" class="hud-text">STATUS: ACTIVE_BUILDER</text>
-  <text x="820" y="190" class="hud-text">LOC: FULL_STACK_AI</text>
+  <!-- FAINT TELEMETRY DETAILS -->
+  <text x="45" y="48" class="hud-detail">&gt; SYSTEM_ONLINE // SECURE_NODE_01</text>
+  <text x="770" y="48" class="hud-detail">01001001 10110100</text>
+  <text x="45" y="202" class="hud-detail">STATUS: ACTIVE_BUILDER</text>
+  <text x="805" y="202" class="hud-detail">LOC: FULL_STACK_AI</text>
 
-  <!-- FAINT DECORATIVE CIRCUIT LINES -->
-  <path class="circuit-line" d="M 100 110 L 220 110 L 250 140 M 750 140 L 780 110 L 900 110" stroke="#7C3AED" stroke-width="1.5" fill="none" opacity="0.35" stroke-dasharray="4 4"/>
+  <!-- PARTICLES -->
+  <circle cx="120" cy="70" r="2" fill="#00F2FE" class="particle" style="animation-delay: 0s;"/>
+  <circle cx="280" cy="180" r="2.5" fill="#7C3AED" class="particle" style="animation-delay: 1s;"/>
+  <circle cx="850" cy="80" r="1.8" fill="#00F2FE" class="particle" style="animation-delay: 1.5s;"/>
+  <circle cx="720" cy="170" r="2.2" fill="#00BFFF" class="particle" style="animation-delay: 2.2s;"/>
 
-  <!-- MAIN NAME DESIGN -->
+  <!-- MAIN NAME DISPLAY -->
   <g filter="url(#neonGlow)">
-    <text x="500" y="128" text-anchor="middle" class="main-title">SHREYASH MEHTA</text>
+    <text x="500" y="136" text-anchor="middle" class="main-text">SHREYASH MEHTA</text>
   </g>
 
-  <!-- ELECTRIC LIGHTNING STREAK ANIMATION -->
-  <g class="lightning-path" filter="url(#electricGlow)">
-    <path d="M 0 115 L 40 108 L 70 122 L 120 110 L 150 125 L 200 112 L 230 118 L 280 106" stroke="#00F2FE" stroke-width="3" fill="none" opacity="0.95"/>
-    <path d="M 10 114 L 50 109 L 80 120 L 130 112 L 160 123 L 210 110 L 240 117 L 290 108" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+  <!-- ELECTRIC LIGHTNING STREAK -->
+  <g class="lightning-streak" filter="url(#electricGlow)">
+    <path d="M 0 125 L 45 115 L 80 130 L 130 118 L 170 132 L 220 120 L 260 127 L 310 112" stroke="#00F2FE" stroke-width="3" fill="none" opacity="0.95"/>
+    <path d="M 10 124 L 55 116 L 90 129 L 140 119 L 180 131 L 230 121 L 270 126 L 320 113" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
   </g>
 </svg>
