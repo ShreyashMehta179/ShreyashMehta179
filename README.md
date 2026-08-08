@@ -8,7 +8,7 @@
 <br/>
 
 <!-- PROFILE PHOTO -->
-<img src="./assets/shreyash-profile.jpg" width="180" alt="Shreyash Mehta" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 18px rgba(0, 242, 254, 0.4);" />
+<img src="./assets/shreyash-profile.jpg" width="190" alt="Shreyash Mehta" />
 
 <br/>
 
@@ -47,32 +47,30 @@
 <br/>
 
 <!-- PORTFOLIO NAVIGATION BAR -->
+<p align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/👤_ABOUT-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="About Anchor"/></a>
+  <a href="#my-arsenal"><img src="https://img.shields.io/badge/⚡_SKILLS-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Skills Anchor"/></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/💼_EXPERIENCE-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Experience Anchor"/></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/🚀_PROJECTS-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Projects Anchor"/></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Achievements Anchor"/></a>
+  <a href="#education"><img src="https://img.shields.io/badge/🎓_EDUCATION-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Education Anchor"/></a>
+  <a href="#github-command-center"><img src="https://img.shields.io/badge/📊_GITHUB-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="GitHub Anchor"/></a>
+  <a href="#current-mission"><img src="https://img.shields.io/badge/🎯_MISSION-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Mission Anchor"/></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/🤝_CONTACT-0d1117?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Contact Anchor"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- HERO VISUAL ANIMATION -->
 <div align="center">
-  <a href="#about-me"><b>👤 About</b></a> &nbsp;•&nbsp; 
-  <a href="#my-arsenal"><b>⚡ Skills</b></a> &nbsp;•&nbsp; 
-  <a href="#experience"><b>💼 Experience</b></a> &nbsp;•&nbsp; 
-  <a href="#featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp; 
-  <a href="#achievements"><b>🏆 Achievements</b></a> &nbsp;•&nbsp; 
-  <a href="#education"><b>🎓 Education</b></a> &nbsp;•&nbsp; 
-  <a href="#github-command-center"><b>📊 GitHub</b></a> &nbsp;•&nbsp; 
-  <a href="#learning-journey"><b>📚 Learning</b></a> &nbsp;•&nbsp; 
-  <a href="#current-mission"><b>🎯 Mission</b></a> &nbsp;•&nbsp; 
-  <a href="#connect"><b>🤝 Contact</b></a>
-</div>
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- HERO VISUAL ANIMATION & TERMINAL SECTION -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-94e8-aea8018f6463.gif" width="700" alt="Developer Workspace Coding Visual Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-94e8-aea8018f6463.gif" width="750" alt="Developer Workspace Coding Visual Animation" />
 </div>
 
 <br/>
 
+<!-- VISUAL TERMINAL CONSOLE -->
 <div align="center">
 
 ```text
@@ -114,31 +112,24 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Core Competencies</h3>
+    <td width="50%" valign="top">
+      <h3>📌 WHO I AM</h3>
       <ul>
         <li>🎓 <b>Degree:</b> B.Tech in Computer Science and Engineering</li>
-        <li>💻 <b>Software Engineering:</b> Full-Stack Web Apps & REST APIs</li>
-        <li>🤖 <b>Artificial Intelligence:</b> Machine Learning & Computer Vision</li>
-        <li>🔌 <b>Hardware & IoT:</b> ESP32/Arduino Microcontrollers & Sensors</li>
-        <li>☕ <b>Algorithmic Mastery:</b> Java & Core Data Structures & Algorithms</li>
+        <li>💻 <b>Software Engineer:</b> Full-Stack Web Apps & REST APIs</li>
+        <li>🤖 <b>AI/ML Enthusiast:</b> Machine Learning & Computer Vision</li>
+        <li>🔌 <b>IoT Explorer:</b> Microcontrollers, ESP32 & Sensor Networks</li>
+        <li>🧠 <b>Problem Solver:</b> Java & Core Data Structures & Algorithms</li>
       </ul>
     </td>
-    <td width="45%" align="center" valign="top">
-
-```text
-┌─────────────────────────────────────┐
-│ SHREYASH MEHTA                      │
-│                                     │
-│ 🎓 CSE Student                      │
-│ 💻 Full-Stack Developer             │
-│ 🤖 AI/ML Enthusiast                 │
-│ 🔌 IoT Explorer                     │
-│ 🧠 Problem Solver                   │
-│ 📍 Kolhapur, Maharashtra, India     │
-└─────────────────────────────────────┘
-```
-
+    <td width="50%" valign="top">
+      <h3>🎯 CURRENT FOCUS</h3>
+      <ul>
+        <li>☕ <b>Algorithms:</b> Advanced DSA in Java</li>
+        <li>🌐 <b>Full-Stack:</b> React, Next.js, Node.js & REST APIs</li>
+        <li>🧠 <b>AI Architecture:</b> Agentic AI & LLM Integrations</li>
+        <li>🏗️ <b>Systems:</b> Scalable System Design & DB Schemas</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -148,7 +139,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 ### 💡 Interactive Details
 
 <details>
-  <summary><b>🧠 Development Philosophy</b></summary>
+  <summary>🧠 <b>Development Philosophy</b></summary>
   <br/>
   <p align="center">
     <code>Learn</code> → <code>Build</code> → <code>Test</code> → <code>Debug</code> → <code>Improve</code> → <code>Repeat</code>
@@ -156,7 +147,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </details>
 
 <details>
-  <summary><b>🚀 What I Build</b></summary>
+  <summary>🚀 <b>What I Build</b></summary>
   <br/>
   <ul>
     <li>Full-stack web applications</li>
@@ -168,7 +159,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </details>
 
 <details>
-  <summary><b>🔬 Areas I'm Exploring</b></summary>
+  <summary>🔬 <b>Areas I'm Exploring</b></summary>
   <br/>
   <ul>
     <li>Artificial Intelligence & Machine Learning</li>
@@ -180,7 +171,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </details>
 
 <details>
-  <summary><b>🧩 Problem Solving Approach</b></summary>
+  <summary>🧩 <b>Problem Solving Approach</b></summary>
   <br/>
   <ul>
     <li>Deconstruct complex problems into modular algorithmic sub-problems.</li>
@@ -190,7 +181,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </details>
 
 <details>
-  <summary><b>🎯 Current Focus</b></summary>
+  <summary>🎯 <b>Current Focus</b></summary>
   <br/>
   <ul>
     <li>Advanced Data Structures & Algorithms in Java.</li>
@@ -379,7 +370,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </details>
 
 <details>
-  <summary>🛠️ <b>Tools & Platforms</b></summary>
+  <summary>☁️ <b>Cloud & Tools</b></summary>
   <br/>
   <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -466,7 +457,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
       </details>
       <br/>
       <p align="center">
-        <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🎙️_LIVE_VOICE_ASSISTANT-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -723,7 +714,8 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <!-- ROW 5: CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <h3>🐍 MY CONTRIBUTION JOURNEY</h3>
+  <h3>🐍 MY CODE JOURNEY</h3>
+  <p><i>"Every contribution tells a story."</i></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg">
@@ -745,7 +737,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 ## 📚 LEARNING JOURNEY
 
 <p align="center">
-  <code>Java + DSA</code> &nbsp;→&nbsp; <code>Full Stack</code> &nbsp;→&nbsp; <code>AI / ML</code> &nbsp;→&nbsp; <code>Generative AI</code> &nbsp;→&nbsp; <code>Agentic AI</code> &nbsp;→&nbsp; <code>Cloud & Systems</code>
+  <code>JAVA + DSA</code> &nbsp;→&nbsp; <code>FULL STACK</code> &nbsp;→&nbsp; <code>AI / ML</code> &nbsp;→&nbsp; <code>GENERATIVE AI</code> &nbsp;→&nbsp; <code>AGENTIC AI</code> &nbsp;→&nbsp; <code>CLOUD + SYSTEM DESIGN</code>
 </p>
 
 <br/>
@@ -792,6 +784,8 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 │ MISSION DASHBOARD                                                      │
 │                                                                        │
 │ $ current_mission                                                      │
+│                                                                        │
+│ [████████████████░░░░]                                                 │
 │                                                                        │
 │ > Strengthen Data Structures & Algorithms                              │
 │ > Build production-ready full-stack systems                            │
@@ -863,11 +857,11 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </a>
 
 <p align="center">
-  <b>Thanks for visiting my profile! Keep building. Keep learning. Keep shipping. 🚀</b>
+  <b>BUILD • LEARN • SHIP • REPEAT 🚀</b>
 </p>
 
 <p align="center">
-  <i>Designed for <b>Shreyash Mehta</b> | ⚡ Built for GitHub Profiles</i>
+  <i>Thanks for visiting my profile! Designed for <b>Shreyash Mehta</b></i>
 </p>
 
 </div>
