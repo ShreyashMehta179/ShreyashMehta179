@@ -20,11 +20,6 @@
   <img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 </picture>
 
-<a href="#top">
-  <img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/main/assets/shreyash-footer-cyber.svg" width="100%" alt="Shreyash Mehta Cyberpunk Footer">
-</a>
-
-
 </div>
 
 <br/>
