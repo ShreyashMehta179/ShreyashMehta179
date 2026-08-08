@@ -2,12 +2,17 @@
 
 <div align="center">
 
-<!-- CLICKABLE ANIMATED SHREYASH MEHTA CYBERPUNK HEADER -->
+<!-- CAPSULE RENDER ANIMATED HEADER -->
 <a href="https://github.com/ShreyashMehta179">
-  <img src="./assets/shreyash-mehta-cyber.svg" width="100%" alt="Shreyash Mehta - Cyberpunk Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:07111F,50:0B1B2B,75:151044,100:030712&height=230&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling&stroke=00F2FE&strokeWidth=2&fontColor=00F2FE" width="100%" alt="SHREYASH MEHTA"/>
 </a>
 
 <br/>
+
+<!-- HACKER TYPING SVG ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=00F2FE&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%3E+ACCESS+GRANTED_;%3E+SYSTEM+ONLINE_;%3E+DEVELOPER+MODE+ACTIVE_;%3E+BUILDING+THE+FUTURE..." alt="Developer terminal animation"/>
+
+<br/><br/>
 
 <!-- REAL ANIMATED CONTRIBUTION SNAKE -->
 <img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
