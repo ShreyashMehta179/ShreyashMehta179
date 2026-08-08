@@ -7,12 +7,7 @@
   <img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/main/assets/shreyash-mehta-cyber.svg" width="100%" alt="Shreyash Mehta Cyberpunk Animated Header"/>
 </a>
 
-<br/><br/>
-
-<!-- REAL ANIMATED CONTRIBUTION SNAKE -->
-<img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
-
-</div>
+<br/>
 
 <br/>
 
