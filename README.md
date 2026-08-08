@@ -2,81 +2,28 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20IoT%20Explorer&descSize=16&descAlign=50&descAlignY=62&stroke=00F2FE&strokeWidth=1&descColor=00F2FE" width="100%" alt="Shreyash Mehta"/>
+<!-- 1. NAME DESIGN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling&stroke=00F2FE&strokeWidth=1" width="100%" alt="SHREYASH MEHTA"/>
 
 <br/>
 
-<img src="./assets/shreyash-profile.jpg" width="190" alt="Shreyash Mehta"/>
-
-<br/><br/>
-
-# Hi, I'm Shreyash Mehta 👋
-
-<a href="https://github.com/ShreyashMehta179">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full-Stack+Developer;AI%2FML+Enthusiast;IoT+Explorer;Java+%26+DSA+Learner;AI+Builder;Problem+Solver;Building+Innovative+Projects" alt="Typing SVG"/>
-</a>
-
-<p><b>"Building Innovative Solutions with Code, AI &amp; IoT 🚀"</b></p>
-
-<img src="https://img.shields.io/badge/🟢_STATUS-BUILDING_%26_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00F2FE" alt="Status"/>
-
-<br/><br/>
-
-<a href="https://github.com/ShreyashMehta179"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/shreyash-mehta-8a899b3a4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7928CA" alt="LinkedIn"/></a>
-<a href="mailto:shreyash.smita@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9D52" alt="Email"/></a>
-
-<br/><br/>
-
-<a href="https://shreyash-voice-assistant-ai-system.vercel.app/">
-  <img src="https://img.shields.io/badge/🎙️_LIVE_VOICE_ASSISTANT_—_TRY_IT_NOW-00F2FE?style=for-the-badge&labelColor=0D1117&color=00F2FE" alt="Live Voice Assistant" height="45"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ShreyashMehta179&label=PROFILE+VIEWS&color=00F2FE&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ShreyashMehta179?label=FOLLOWERS&style=flat-square&color=7928CA&logo=github" alt="Followers"/>
+<!-- 2. SNAKE MOVEMENT -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+</picture>
 
 </div>
 
 <br/>
 
+<!-- PORTFOLIO NAVIGATION BAR -->
 <div align="center">
 
-[ 👤 ABOUT ](#about) • [ ⚡ SKILLS ](#skills) • [ 💼 EXPERIENCE ](#experience) • [ 🚀 PROJECTS ](#projects) • [ 🏆 ACHIEVEMENTS ](#achievements) • [ 🎓 EDUCATION ](#education) • [ 📊 GITHUB ](#github) • [ 🎯 MISSION ](#mission) • [ 🤝 CONTACT ](#contact)
+[ 👤 ABOUT ](#about) • [ ⚡ SKILLS ](#skills) • [ 💼 EXPERIENCE ](#experience) • [ 🚀 PROJECTS ](#projects) • [ 🏆 ACHIEVEMENTS ](#achievements) • [ 🎓 EDUCATION ](#education) • [ 🎯 MISSION ](#mission) • [ 🤝 CONTACT ](#contact)
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-94e8-aea8018f6463.gif" width="700" alt="Developer workspace animation"/>
-</div>
-
-<br/>
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ ● ● ●                                    shreyash@dev │
-├──────────────────────────────────────────────────────┤
-│                                                        │
-│ $ whoami                                              │
-│ > Shreyash Nilesh Mehta                               │
-│                                                        │
-│ $ role                                                │
-│ > Aspiring Software Development Engineer              │
-│                                                        │
-│ $ stack                                               │
-│ > Full-Stack · AI/ML · IoT · DSA                      │
-│                                                        │
-│ $ learning                                            │
-│ > Java + Advanced DSA + Agentic AI Architectures       │
-│                                                        │
-│ $ status                                              │
-│ > Building something awesome...                      │
-│                                                        │
-└──────────────────────────────────────────────────────┘
-```
 
 <br/>
 <hr/>
@@ -141,8 +88,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
     <li>Cybersecurity Fundamentals</li>
   </ul>
 </details>
-
-<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -247,8 +192,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
   </p>
 </details>
 
-<div align="right"><a href="#top">↑ Back to Top</a></div>
-
 <br/>
 <hr/>
 <br/>
@@ -282,8 +225,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
     </td>
   </tr>
 </table>
-
-<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -367,8 +308,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
   </tr>
 </table>
 
-<div align="right"><a href="#top">↑ Back to Top</a></div>
-
 <br/>
 <hr/>
 <br/>
@@ -388,8 +327,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
 | 🐍 | **Python Skill Certification** — *OneRoadmap* |
 | 📜 | **C Programming Certificate Course** — *DISHA Computer Institute (95%)* |
 | 📜 | **C++ Programming Certificate Course** — *DISHA Computer Institute (95%)* |
-
-<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -415,52 +352,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
     </td>
   </tr>
 </table>
-
-<div align="right"><a href="#top">↑ Back to Top</a></div>
-
-<br/>
-<hr/>
-<br/>
-
-<a id="github"></a>
-
-## 📊 GitHub Command Center
-
-<p align="center"><i>Tracking my journey through code, commits, and continuous learning.</i></p>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShreyashMehta179&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&border_radius=8" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashMehta179&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9&border_radius=8" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashMehta179&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=FF9D52&currStreakNum=00F2FE&sidenums=00F2FE&date=c9d1d9&border_radius=8" width="85%" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreyashMehta179&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashMehta179&theme=tokyonight&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <h3>🐍 My Code Journey</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
-<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
@@ -491,8 +382,6 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
   <p align="center"><b>"Learn → Build → Test → Debug → Improve → Repeat."</b></p>
   <p align="center"><i>Code is not just instructions for computers; it is a canvas for engineering solutions that empower people.</i></p>
 </blockquote>
-
-<div align="right"><a href="#top">↑ Back to Top</a></div>
 
 <br/>
 <hr/>
