@@ -2,15 +2,10 @@
 
 <div align="center">
 
-<!-- CAPSULE RENDER ANIMATED HEADER -->
+<!-- CLICKABLE ANIMATED SHREYASH MEHTA CYBERPUNK HEADER -->
 <a href="https://github.com/ShreyashMehta179">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:07111F,50:0B1B2B,75:151044,100:030712&height=230&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling&stroke=00F2FE&strokeWidth=2&fontColor=00F2FE" width="100%" alt="SHREYASH MEHTA"/>
+  <img src="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/main/assets/shreyash-mehta-cyber.svg" width="100%" alt="Shreyash Mehta Cyberpunk Animated Header"/>
 </a>
-
-<br/>
-
-<!-- HACKER TYPING SVG ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=00F2FE&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%3E+ACCESS+GRANTED_;%3E+SYSTEM+ONLINE_;%3E+DEVELOPER+MODE+ACTIVE_;%3E+BUILDING+THE+FUTURE..." alt="Developer terminal animation"/>
 
 <br/><br/>
 
@@ -397,7 +392,7 @@ I am an aspiring **Software Development Engineer** focused on Full-Stack Develop
 <div align="center">
 
 <p><b>"Let's build something impactful together."</b></p>
-<p>Interested in technology, AI, full-stack development, or IoT? Let me know!</p>
+<p>Interested in technology, AI, full-stack development, or IoT? Let info know!</p>
 
 <a href="https://github.com/ShreyashMehta179"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/shreyash-mehta-8a899b3a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
