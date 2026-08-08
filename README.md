@@ -43,76 +43,7 @@ root@shreyash:~# whoami
 
 <br/>
 
-<!-- INTERACTIVE SECTIONS -->
-<div align="center">
 
-<details>
-<summary>🧰 <b>Tech Stack</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,express,mongodb,mysql,git,github,linux,vscode,docker,aws,html,css,figma&perline=9&theme=dark" alt="Tech Stack" width="100%"/>
-
-</details>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<details>
-<summary>📊 <b>GitHub Stats</b></summary>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashMehta179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashMehta179&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideNums=00F2FE&sideLabels=00F2FE&dates=00F2FE" height="170" alt="GitHub Streak"/>
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyashMehta179&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=00F2FE&area=0D1117" width="100%" alt="Activity Graph"/>
-
-</details>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<details>
-<summary>🏆 <b>Top Languages</b></summary>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashMehta179&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" height="170" alt="Top Languages"/>
-
-</details>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<details>
-<summary>🎖️ <b>Trophies</b></summary>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyashMehta179&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Profile Trophy"/>
-
-</details>
-
-</div>
-
-<br/>
-
-<!-- STATUS BADGES -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F2FE?style=flat-square&logo=terminal&logoColor=0D1117&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MODE-ROOT-00F2FE?style=flat-square&logo=linux&logoColor=0D1117&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/BUILD-LEARN%E2%80%A2SHIP%E2%80%A2REPEAT-00F2FE?style=flat-square&logo=rocket&logoColor=0D1117&labelColor=0D1117"/>
-
-</div>
-
-<br/>
 
 <!-- FOOTER -->
 <div align="center">
