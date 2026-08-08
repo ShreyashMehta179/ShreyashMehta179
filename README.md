@@ -3,19 +3,12 @@
 <div align="center">
 
 <!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:090d16&height=220&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Aspiring%20Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI/ML%20%7C%20IoT&descSize=15&descAlign=50&descAlignY=62&stroke=00f2fe&strokeWidth=1" width="100%" alt="Shreyash Mehta Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:090d16&height=220&section=header&text=SHREYASH%20MEHTA&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Aspiring%20Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI/ML%20%7C%20IoT&descSize=16&descAlign=50&descAlignY=62&stroke=00f2fe&strokeWidth=1&descColor=00f2fe" width="100%" alt="Shreyash Mehta Header Banner"/>
 
 <br/>
 
-<div align="center">
-
-<img
-  src="./assets/shreyash-profile.jpg"
-  width="180"
-  alt="Shreyash Mehta"
-/>
-
-</div>
+<!-- PROFILE PHOTO -->
+<img src="./assets/shreyash-profile.jpg" width="180" alt="Shreyash Mehta" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 18px rgba(0, 242, 254, 0.4);" />
 
 <br/>
 
@@ -60,9 +53,10 @@
   <a href="#experience"><b>💼 Experience</b></a> &nbsp;•&nbsp; 
   <a href="#featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp; 
   <a href="#achievements"><b>🏆 Achievements</b></a> &nbsp;•&nbsp; 
+  <a href="#education"><b>🎓 Education</b></a> &nbsp;•&nbsp; 
   <a href="#github-command-center"><b>📊 GitHub</b></a> &nbsp;•&nbsp; 
   <a href="#learning-journey"><b>📚 Learning</b></a> &nbsp;•&nbsp; 
-  <a href="#current-mission"><b>🎯 Goals</b></a> &nbsp;•&nbsp; 
+  <a href="#current-mission"><b>🎯 Mission</b></a> &nbsp;•&nbsp; 
   <a href="#connect"><b>🤝 Contact</b></a>
 </div>
 
@@ -91,14 +85,14 @@
 │ $ role                                                                 │
 │ > Aspiring Software Development Engineer                               │
 │                                                                        │
-│ $ focus                                                                │
+│ $ stack                                                                │
 │ > Full-Stack Web Dev / AI & ML / IoT Micro-Systems / DSA               │
 │                                                                        │
 │ $ currently_learning                                                   │
 │ > Java + Advanced DSA + Agentic AI Architectures                       │
 │                                                                        │
 │ $ status                                                               │
-│ > Building innovative solutions with Code, AI & IoT...                 │
+│ > BUILDING SOMETHING AWESOME...                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -110,7 +104,7 @@
 
 <a id="about-me"></a>
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 I am an aspiring Software Development Engineer focused on Full-Stack Development and AI/ML, with hands-on experience building web applications, intelligent systems and IoT solutions.
 
@@ -154,7 +148,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 ### 💡 Interactive Details
 
 <details>
-  <summary><b>🧠 My Development Philosophy</b></summary>
+  <summary><b>🧠 Development Philosophy</b></summary>
   <br/>
   <p align="center">
     <code>Learn</code> → <code>Build</code> → <code>Test</code> → <code>Debug</code> → <code>Improve</code> → <code>Repeat</code>
@@ -162,7 +156,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </details>
 
 <details>
-  <summary><b>🚀 What I Like Building</b></summary>
+  <summary><b>🚀 What I Build</b></summary>
   <br/>
   <ul>
     <li>Full-stack web applications</li>
@@ -185,6 +179,26 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
   </ul>
 </details>
 
+<details>
+  <summary><b>🧩 Problem Solving Approach</b></summary>
+  <br/>
+  <ul>
+    <li>Deconstruct complex problems into modular algorithmic sub-problems.</li>
+    <li>Analyze time complexity and space complexity tradeoffs.</li>
+    <li>Write readable, clean, maintainable Object-Oriented code.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🎯 Current Focus</b></summary>
+  <br/>
+  <ul>
+    <li>Advanced Data Structures & Algorithms in Java.</li>
+    <li>Building agentic AI tools and LLM integrations.</li>
+    <li>Designing scalable RESTful backend services.</li>
+  </ul>
+</details>
+
 <br/>
 <div align="right">
   <a href="#top">↑ Back to Top</a>
@@ -196,7 +210,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="currently-building"></a>
 
-## 🚀 Currently Building
+## 🚀 CURRENTLY BUILDING
 
 <table width="100%">
   <tr>
@@ -238,7 +252,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="currently-learning"></a>
 
-## 📚 Currently Learning
+## 📚 CURRENTLY LEARNING
 
 <table width="100%">
   <tr>
@@ -269,146 +283,115 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="my-arsenal"></a>
 
-## ⚡ My Arsenal
-
-<div align="center">
-
-### 01 — PROGRAMMING LANGUAGES
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### 02 — FRONTEND DEVELOPMENT
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### 03 — BACKEND DEVELOPMENT
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST_APIs-00F2FE?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Authentication-7928CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Authentication"/>
-  <img src="https://img.shields.io/badge/API_Integration-00599C?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration"/>
-</p>
-
-### 04 — DATABASES
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Firestore"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
-### 05 — CORE COMPUTER SCIENCE
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Data Structures and Algorithms"/>
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Object Oriented Programming"/>
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Operating Systems"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks"/>
-</p>
-
-### 06 — AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-00F2FE?style=for-the-badge&logo=brain&logoColor=black" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Generative_AI-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest Classifier"/>
-</p>
-
-### 07 — IOT & HARDWARE
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded Systems"/>
-  <img src="https://img.shields.io/badge/IoT_Sensors-00F2FE?style=for-the-badge&logo=microchip&logoColor=black" alt="IoT Sensors"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-ED8B00?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="Microcontrollers"/>
-  <img src="https://img.shields.io/badge/Relay_Modules-D14836?style=for-the-badge&logo=microchip&logoColor=white" alt="Relay Modules"/>
-  <img src="https://img.shields.io/badge/OLED_Displays-339933?style=for-the-badge&logo=microchip&logoColor=white" alt="OLED Displays"/>
-  <img src="https://img.shields.io/badge/Sensor_Integration-7928CA?style=for-the-badge&logo=microchip&logoColor=white" alt="Sensor Integration"/>
-</p>
-
-### 08 — TOOLS & PLATFORMS
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform"/>
-</p>
-
-</div>
+## ⚡ MY ARSENAL
 
 <br/>
 
-### 🛠️ Interactive Skills Breakdown
-
-<details>
-  <summary><b>01 — 💻 Languages & Core CS Breakdown</b></summary>
-
+<details open>
+  <summary>💻 <b>Programming Languages</b></summary>
   <br/>
-  <ul>
-    <li><b>Languages:</b> Java, Python, C, C++, SQL, JavaScript, TypeScript.</li>
-    <li><b>Core Fundamentals:</b> Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS, Operating Systems, Computer Networks.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </p>
 </details>
 
 <details>
-  <summary><b>02 — 🌐 Full-Stack & Backend Breakdown</b></summary>
-
+  <summary>🌐 <b>Frontend Development</b></summary>
   <br/>
-  <ul>
-    <li><b>Frontend:</b> HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, TypeScript.</li>
-    <li><b>Backend:</b> Node.js, Express.js, REST APIs, Authentication, API Integration.</li>
-    <li><b>Databases:</b> MySQL, PostgreSQL, MongoDB, Firebase Firestore, Supabase.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </p>
 </details>
 
 <details>
-  <summary><b>03 — 🤖 AI / ML Breakdown</b></summary>
-
+  <summary>⚙️ <b>Backend Development</b></summary>
   <br/>
-  <ul>
-    <li><b>Machine Learning:</b> Artificial Intelligence, Machine Learning, Random Forest classifiers, Computer Vision (OpenCV), Generative AI.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/REST_APIs-00F2FE?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST APIs"/>
+    <img src="https://img.shields.io/badge/Authentication-7928CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Authentication"/>
+    <img src="https://img.shields.io/badge/API_Integration-00599C?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration"/>
+  </p>
 </details>
 
 <details>
-  <summary><b>04 — 🔌 IoT & Hardware Breakdown</b></summary>
-
+  <summary>🗄️ <b>Databases</b></summary>
   <br/>
-  <ul>
-    <li><b>Embedded Hardware:</b> ESP32, Arduino, Microcontrollers, Embedded Systems.</li>
-    <li><b>Sensors & Display:</b> Sensor Integration, Relay Modules, OLED Displays, IoT Sensors.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Firestore"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  </p>
 </details>
 
 <details>
-  <summary><b>05 — 🛠️ Tools & Cloud Platforms Breakdown</b></summary>
-
+  <summary>🧠 <b>Core Computer Science</b></summary>
   <br/>
-  <ul>
-    <li><b>Tools & Cloud:</b> Git, GitHub, VS Code, Vercel, Firebase, Supabase, Postman, Android Studio, Google Cloud Platform.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Data Structures and Algorithms"/>
+    <img src="https://img.shields.io/badge/Object--Oriented_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Object Oriented Programming"/>
+    <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="DBMS"/>
+    <img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Operating Systems"/>
+    <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks"/>
+  </p>
+</details>
+
+<details>
+  <summary>🤖 <b>AI / ML</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-00F2FE?style=for-the-badge&logo=brain&logoColor=black" alt="Artificial Intelligence"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/Generative_AI-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+    <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+    <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Random Forest Classifier"/>
+  </p>
+</details>
+
+<details>
+  <summary>🔌 <b>IoT & Hardware</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded Systems"/>
+    <img src="https://img.shields.io/badge/IoT_Sensors-00F2FE?style=for-the-badge&logo=microchip&logoColor=black" alt="IoT Sensors"/>
+    <img src="https://img.shields.io/badge/Microcontrollers-ED8B00?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="Microcontrollers"/>
+    <img src="https://img.shields.io/badge/Relay_Modules-D14836?style=for-the-badge&logo=microchip&logoColor=white" alt="Relay Modules"/>
+    <img src="https://img.shields.io/badge/OLED_Displays-339933?style=for-the-badge&logo=microchip&logoColor=white" alt="OLED Displays"/>
+    <img src="https://img.shields.io/badge/Sensor_Integration-7928CA?style=for-the-badge&logo=microchip&logoColor=white" alt="Sensor Integration"/>
+  </p>
+</details>
+
+<details>
+  <summary>🛠️ <b>Tools & Platforms</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+    <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform"/>
+  </p>
 </details>
 
 <br/>
@@ -422,7 +405,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="experience"></a>
 
-## 💼 Experience
+## 💼 EXPERIENCE
 
 <table width="100%">
   <tr>
@@ -461,7 +444,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="featured-projects"></a>
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 <table width="100%">
   <tr>
@@ -483,7 +466,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
       </details>
       <br/>
       <p align="center">
-        <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://shreyash-voice-assistant-ai-system.vercel.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -508,7 +491,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
       <br/>
       <p align="center">
         <a href="https://github.com/ShreyashMehta179/Hackoutsav-DYPSEM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository Link"/></a>
-        <a href="https://hackoutsav-dypsem.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://hackoutsav-dypsem.vercel.app"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
       </p>
     </td>
   </tr>
@@ -535,7 +518,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
       <br/>
       <p align="center">
         <a href="https://github.com/ShreyashMehta179/E-Tongue-for-Dravya-Identification"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository Link"/></a>
-        <a href="https://e-tongue-for-dravya-identification.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
+        <a href="https://e-tongue-for-dravya-identification.vercel.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo Link"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -644,7 +627,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="achievements"></a>
 
-## 🏆 Achievements & Certifications
+## 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
 - 🏆 **Winner** — Internal Smart India Hackathon (SIH) 2025, *D.Y. Patil School of Engineering & Management*
 - 🥈 **2nd Prize** — Web Development Competition (2024–2025), *D.Y. Patil School of Engineering & Management*
@@ -667,7 +650,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="education"></a>
 
-## 🎓 Education
+## 🎓 EDUCATION
 
 <table width="100%">
   <tr>
@@ -697,7 +680,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="github-command-center"></a>
 
-## 📊 GitHub Command Center
+## 📊 GITHUB COMMAND CENTER
 
 <p align="center"><i>Tracking my journey through code, commits, and continuous learning.</i></p>
 
@@ -740,7 +723,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <!-- ROW 5: CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>🐍 MY CONTRIBUTION JOURNEY</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyashMehta179/ShreyashMehta179/output/github-contribution-grid-snake.svg">
@@ -759,32 +742,34 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="learning-journey"></a>
 
-## 📚 Learning Journey
+## 📚 LEARNING JOURNEY
+
+<p align="center">
+  <code>Java + DSA</code> &nbsp;→&nbsp; <code>Full Stack</code> &nbsp;→&nbsp; <code>AI / ML</code> &nbsp;→&nbsp; <code>Generative AI</code> &nbsp;→&nbsp; <code>Agentic AI</code> &nbsp;→&nbsp; <code>Cloud & Systems</code>
+</p>
+
+<br/>
 
 <details>
-  <summary>☕ <b>Java & DSA</b></summary>
-
+  <summary>☕ <b>Java & DSA Breakdown</b></summary>
   <br/>
   <p>Java • Object-Oriented Programming (OOP) • Arrays • Strings • Linked Lists • Stacks • Queues • Trees • Binary Search Trees (BST) • AVL Trees • Recursion • Sorting Algorithms • Searching Algorithms • Time Complexity • Space Complexity</p>
 </details>
 
 <details>
-  <summary>🤖 <b>AI / ML</b></summary>
-
+  <summary>🤖 <b>AI / ML Breakdown</b></summary>
   <br/>
   <p>Machine Learning • Random Forest Classifier • Computer Vision (OpenCV) • Generative AI • Large Language Models (LLMs) • Agentic AI Frameworks</p>
 </details>
 
 <details>
-  <summary>🌐 <b>Full-Stack</b></summary>
-
+  <summary>🌐 <b>Full-Stack Breakdown</b></summary>
   <br/>
   <p>React.js • Next.js • Node.js • Express.js • REST APIs • Authentication • Relational & Document Databases (MySQL, PostgreSQL, MongoDB, Firebase, Supabase)</p>
 </details>
 
 <details>
-  <summary>🔌 <b>IoT</b></summary>
-
+  <summary>🔌 <b>IoT Breakdown</b></summary>
   <br/>
   <p>ESP32 Microcontrollers • Arduino Uno • Hardware Sensors • Embedded Systems Integration</p>
 </details>
@@ -800,19 +785,21 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="current-mission"></a>
 
-## 🎯 Current Mission
+## 🎯 CURRENT MISSION
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │ MISSION DASHBOARD                                                      │
 │                                                                        │
-│ 01  Strengthen Data Structures & Algorithms                            │
-│ 02  Build production-ready full-stack systems                          │
-│ 03  Explore advanced AI and Agentic AI                                 │
-│ 04  Build intelligent IoT solutions                                    │
-│ 05  Improve system design and backend architecture                     │
-│ 06  Contribute to open source                                          │
-│ 07  Continue building impactful projects                               │
+│ $ current_mission                                                      │
+│                                                                        │
+│ > Strengthen Data Structures & Algorithms                              │
+│ > Build production-ready full-stack systems                            │
+│ > Explore advanced AI and Agentic AI                                   │
+│ > Build intelligent IoT solutions                                      │
+│ > Improve system design and backend architecture                       │
+│ > Contribute to open source                                            │
+│ > Continue building impactful projects                                 │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -820,7 +807,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="philosophy"></a>
 
-### 💡 Developer Philosophy
+### 💡 DEVELOPER PHILOSOPHY
 
 <blockquote>
   <p align="center">
@@ -842,9 +829,11 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 
 <a id="connect"></a>
 
-## 🤝 Let's Connect
+## 🤝 LET'S CONNECT
 
 <div align="center">
+
+<p><b>"Let's build something impactful together."</b></p>
 
 <p>Interested in technology, AI, full-stack development, or IoT? Let me know!</p>
 
@@ -874,7 +863,7 @@ I actively develop applications across **Full-Stack Web Development**, **Artific
 </a>
 
 <p align="center">
-  <b>Thanks for visiting my profile! Keep building. Keep learning. 🚀</b>
+  <b>Thanks for visiting my profile! Keep building. Keep learning. Keep shipping. 🚀</b>
 </p>
 
 <p align="center">
