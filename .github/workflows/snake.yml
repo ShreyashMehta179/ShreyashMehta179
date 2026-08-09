@@ -2,18 +2,14 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Run automatically every 24 hours
     - cron: "0 0 * * *"
 
-  # Allow manual execution
   workflow_dispatch:
 
-  # Run when changes are pushed to main
   push:
     branches:
       - main
 
-# Allow the workflow to write generated files to the repository
 permissions:
   contents: write
 
@@ -23,18 +19,17 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Generate the contribution snake SVG files
+
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ShreyashMehta179
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push generated files to the output branch
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
